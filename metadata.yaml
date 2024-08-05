@@ -1,0 +1,39 @@
+_repo: Electro-episoded-in-AD-2025_73988
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Paul, Frank R. (Frank Rudolph)
+    alias: Paul, Frank Rudolph
+    birthdate: 1884
+    deathdate: 1963
+    gutenberg_agent_id: '31333'
+    url: http://www.gutenberg.org/2009/agents/31333
+    wikipedia: https://en.wikipedia.org/wiki/Frank_R._Paul
+creator:
+  author:
+    agent_name: Skinner, E. D.
+    gutenberg_agent_id: '57300'
+    url: http://www.gutenberg.org/2009/agents/57300
+description: ''
+gutenberg_issued: '2024-07-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73988'
+language: en
+pgterms:marc904: https://archive.org/details/AmazingStoriesVolume02Number05
+pgterms:marc905: 20240704182020skinner
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York :$bExperimenters Publishing Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Humorous stories'
+- !lcc 'PS'
+- GITenberg
+title: Electro-episoded in A.D. 2025
+url: http://www.gutenberg.org/ebooks/73988
